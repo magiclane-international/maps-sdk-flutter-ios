@@ -1,0 +1,11 @@
+version = 1
+SPDX-PackageName = "maps-sdk-flutter-ios"
+SPDX-PackageSupplier = "magiclane-developer@users.noreply.github.com"
+SPDX-PackageDownloadLocation = "https://github.com/magiclane-international/maps-sdk-flutter-ios"
+SPDX-PackageComment = "iOS support layer of MagicLane Maps SDK for Flutter."
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "1995-2025 Magic Lane International B.V. <info@magiclane.com>"
+SPDX-License-Identifier = "LicenseRef-MagicLane-Proprietary"
